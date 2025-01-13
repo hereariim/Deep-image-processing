@@ -20,7 +20,7 @@ We give you codes and slides structured as below:
 - Train model
 - Test model
 
-## Conclusion : Classification in practice 
+### Conclusion : Classification in practice 
 
 ## Image segmentation
 
@@ -39,8 +39,10 @@ We give you codes and slides structured as below:
 - Train model
 - Test model
 
-## Conclusion : Segmentation in practice 
+### Conclusion : Segmentation in practice 
 
 ## Model deployement
 
 ### Napari as plugin deployement for public usage
+
+### Conclusion 
