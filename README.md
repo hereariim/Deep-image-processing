@@ -5,44 +5,12 @@ This lecture focus on the use of codes to run and assess deep model. We are inte
 
 ## Image classification
 
-### CNN
-
-### Task ?
-
-### Code explanation
-
-We give you codes and slides structured as below:
-- Efficient library : Tensorflow or Pytorch
-- Architecture :
-  - Block : Conv and subsampling (transposed, stride, pad)
-- Performance measurement for classification task
-- Training hyperparameter
-- Train model
-- Test model
-
-### Conclusion : Classification in practice 
-
 ## Image segmentation
 
-### UNet
+Data :  [Nuclei data](https://drive.google.com/file/d/1ZNoqmFJVK-1n9CtgfNI1B2UrKs_5aZRA/view?usp=drive_link)
 
-### Task ?
+## Object detection and Foundation model
 
-### Code explanation
-
-We give you codes and slides structured as below:
-- Efficient library : Tensorflow or Pytorch
-- Architecture : encoder and decoder
-  - Block : Conv and subsampling (transposed, stride, pad)
-- Performance measurement for classification task
-- Training hyperparameter
-- Train model
-- Test model
-
-### Conclusion : Segmentation in practice 
-
-## Model deployement
-
-### Napari as plugin deployement for public usage
+### Deploying model with Napari for public usage
 
 ### Conclusion 
