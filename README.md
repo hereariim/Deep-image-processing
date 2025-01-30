@@ -7,7 +7,10 @@ This lecture focus on the use of codes to run and assess deep model. We are inte
 
 ## Image segmentation
 
-Data :  [Nuclei data](https://drive.google.com/file/d/1ZNoqmFJVK-1n9CtgfNI1B2UrKs_5aZRA/view?usp=drive_link)
+Data : 
+- [Nuclei data](https://drive.google.com/file/d/1ZNoqmFJVK-1n9CtgfNI1B2UrKs_5aZRA/view?usp=drive_link)
+- [BCCD](https://drive.google.com/file/d/1AW786vkBVsk2ETP1KoqYF81m_GYXg-MA/view?usp=sharing)
+
 
 ## Object detection and Foundation model
 
