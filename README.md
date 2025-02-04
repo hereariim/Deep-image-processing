@@ -14,6 +14,10 @@ Data :
 
 ## Object detection and Foundation model
 
+Data : 
+
+- [Apple](https://uabox.univ-angers.fr/s/tspQpDDy8HjjGme)
+
 ### Deploying model with Napari for public usage
 
 ### Conclusion 
