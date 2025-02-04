@@ -16,7 +16,14 @@ Data :
 
 Data : 
 
-- [Apple](https://uabox.univ-angers.fr/s/tspQpDDy8HjjGme)
+- [Apple](https://uabox.univ-angers.fr/s/XWRYs3j7Aw8T9f7/download/Apple.zip)
+
+Liens utiles : 
+
+- [DINO](https://deepdataspace.com/playground/grounding_dino)
+- [Yolov11](https://docs.ultralytics.com/fr/models/yolo11/)
+- [Hyperparamètre](https://docs.ultralytics.com/modes/train/#train-settings)
+- [Prediction](https://docs.ultralytics.com/modes/predict/#key-features-of-predict-mode)
 
 ### Deploying model with Napari for public usage
 
