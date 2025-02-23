@@ -27,4 +27,6 @@ Liens utiles :
 
 ### Deploying model with Napari for public usage
 
+Nous allons travailler sur Napari. Si vous êtes muni de votre PC portable, vous devez installer anaconda puis napari (consignes d'installation dans l'exercice 1).
+
 ### Conclusion 
