@@ -1,5 +1,7 @@
 # Exercice 3 : Créer un widget pour segmenter une image à partir d'un modèle deep learning
 
+![Alt text](credit-images/deep_learning_widget.png)
+
 ## 1- `_widget.py`
 
 Nous allons créer un widget pour segmenter une image
@@ -77,7 +79,9 @@ dependencies = [
     "numpy",
     "magicgui",
     "qtpy",
-    "scikit-image"
+    "scikit-image",
+    "tensorflow",
+    "opencv-python-headless"
 ]
 ```
 
