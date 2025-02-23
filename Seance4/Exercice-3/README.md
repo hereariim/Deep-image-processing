@@ -12,9 +12,10 @@ L'algorithme prends deux entrées :
 - une image de type array
 - le modèle entrainé
 
-Dans napari, **image** d'entrée est présenté comme un objet `napari.types`. Dans le décorateur magicgui, nous introduisons une seule variable :
+Dans napari, **image** d'entrée est présenté comme un objet `napari.types`. Dans le décorateur magicgui, nous introduisons une seule variable et un bouton d'exécution :
 
 - `img_`: Image dans la fenêtre napari qui est de type `ImageData` de `napari.types`.
+- `call_button`: Bouton pour exécuter le widget.
 
 ⚠️ N'oubliez pas d'importer `ImageData` et `LabelsData` dans `_widget.py`: `from napari.types import ImageData, LabelsData`
 
