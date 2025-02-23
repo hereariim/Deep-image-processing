@@ -11,7 +11,6 @@ Data :
 - [Nuclei data](https://drive.google.com/file/d/1ZNoqmFJVK-1n9CtgfNI1B2UrKs_5aZRA/view?usp=drive_link)
 - [BCCD](https://www.kaggle.com/datasets/jeetblahiri/bccd-dataset-with-mask?resource=download)
 
-
 ## Object detection and Foundation model
 
 Data : 
