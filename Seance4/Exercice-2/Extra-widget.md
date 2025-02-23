@@ -46,7 +46,7 @@ def widget_demo(
 widget_demo.show()
 ```
 
-![Alt text](Seance4/credit-image/7586a2670f0eb26111339c8f0fe6f8c4651ee9a9f444584181967deeb4301c80.png)
+![Alt text](credit-image/7586a2670f0eb26111339c8f0fe6f8c4651ee9a9f444584181967deeb4301c80.png)
 
 ## Input et Output d'un widget
 
