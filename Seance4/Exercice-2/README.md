@@ -1,4 +1,16 @@
-# Exercise
+# Exercice 2 : Créer un widget pour segmenter une image par méthodes de seuillage
+
+Un widget utilise trois fichiers dans le plugin : 
+
+- `_widget.py` qui contient le script de traitement d'images
+
+- `__init__.py` qui contient toutes les fonctions du module
+
+- `napari.yaml` qui contient tous les métadonnées et les informations de configuration. Cet objet est un carrefour entre le backend et le frontend.
+
+Additionnellement, un fichier indispensable pour installer les librairies indispensables pour le fonctionnement du script de traitement d'images :
+
+- `pyproject.toml` contient toutes les librairies à installer lors de l'installation du plugin.
 
 ## 1- `_widget.py`
 

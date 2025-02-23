@@ -1,4 +1,4 @@
-# Exercise
+# Exercice 3 : Créer un widget pour segmenter une image à partir d'un modèle deep learning
 
 ## 1- `_widget.py`
 

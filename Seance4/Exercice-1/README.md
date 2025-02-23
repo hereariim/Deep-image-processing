@@ -1,3 +1,5 @@
+# Exercice 1 : Créer un plugin simple
+
 # Requirements
 
 Dirigez-vous dans l'environnement conda :
