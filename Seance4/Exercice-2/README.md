@@ -1,5 +1,7 @@
 # Exercice 2 : Créer un widget pour segmenter une image par méthodes de seuillage
 
+![Alt text](credit-images/widget.png)
+
 Un widget utilise trois fichiers dans le plugin : 
 
 - `_widget.py` qui contient le script de traitement d'images
@@ -11,6 +13,8 @@ Un widget utilise trois fichiers dans le plugin :
 Additionnellement, un fichier indispensable pour installer les librairies indispensables pour le fonctionnement du script de traitement d'images :
 
 - `pyproject.toml` contient toutes les librairies à installer lors de l'installation du plugin.
+
+![Alt text](credit-images/widget.png)
 
 ## 1- `_widget.py`
 
@@ -24,12 +28,15 @@ L'algorithme prends deux entrées :
 
 Dans napari, **image** d'entrée est présenté comme un objet `napari.types`.
 
-Dans le décorateur magicgui, nous introduisons deux variables :
+Nous utilisons le décorateur magicgui pour créer deux entrées dans le widget et un bouton pour l'execution du widget : 
 
 - `selected_image`: Image dans la fenêtre napari qui est de type `ImageData` de `napari.types`.
 - `filter_selected`: Seuillage à sélectionner.
+- `call_button`: Bouton pour executer le code dans le widget
 
-⚠️ N'oublier pas d'importer `ImageData` et `LabelsData` dans `_widget.py`: `from napari.types import ImageData, LabelsData`
+![Alt text](credit-images/boutons_widgets.png)
+
+⚠️ N'oubliez pas d'importer `ImageData` et `LabelsData` dans `_widget.py`: `from napari.types import ImageData, LabelsData`
 
 ```
 from napari.types import ImageData, LabelsData
