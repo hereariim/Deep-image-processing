@@ -1,6 +1,10 @@
 # Exercice 2 : Créer un widget pour segmenter une image par méthodes de seuillage
 
-![Alt text](credit-images/widget.png)
+![Alt text](credit-images/plugin_widgets.png)
+
+Ci-dessous un pipeline pour créer un widget :
+
+![Alt text](credit-images/283370324-c59a1307-87e5-419a-a887-11128700f1fd.png)
 
 Un widget utilise trois fichiers dans le plugin : 
 
